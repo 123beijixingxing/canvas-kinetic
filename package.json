@@ -1,0 +1,26 @@
+{
+  "name": "@canvas-kinetic/canvas-kinetic",
+  "version": "1.0.0",
+  "description": "\u001b[2~基于kinetic插件库二次封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/123beijixingxing/canvas-kinetic.git"
+  },
+  "keywords": [
+    "基于kinetic插件库二次封装"
+  ],
+  "browser": {
+    "canvas": false,
+    "jsdom": false
+  },
+  "author": "beijixingxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123beijixingxing/canvas-kinetic/issues"
+  },
+  "homepage": "https://github.com/123beijixingxing/canvas-kinetic#readme"
+}
